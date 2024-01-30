@@ -1,3 +1,2 @@
 # retail-sales-prediction
-problem statement: to predict the sales of big mart
-
+This project analysis and predicts the sales of retail store
